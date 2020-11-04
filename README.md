@@ -28,10 +28,9 @@ The Contacts app project is a front-end project. However, we'll eventually be st
   ```
 
    3. Install and start the Contact front-end application
-  
-    ```
-      cd frontend
-      npm install
-      npm start
-    ```
+  ```
+    - cd frontend
+    - npm install
+    - npm start
+  ```
 
