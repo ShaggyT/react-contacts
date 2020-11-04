@@ -20,13 +20,12 @@ The Contacts app project is a front-end project. However, we'll eventually be st
     - git clone https://github.com/ShaggyT/react-contacts
   ```
   2. Install and start the API server
-    - The server is built in Node. The repo for the project is at https://github.com/udacity/reactnd-contacts-server.
-
-    ```
-      cd backend
-      npm install
-      node server
-    ```
+   - The server is built in Node. The repo for the project is at https://github.com/udacity/reactnd-contacts-server.
+  ```
+    - cd backend
+    - npm install
+    - node server
+  ```
 
    3. Install and start the Contact front-end application
   
